@@ -1,25 +1,39 @@
 # Puma Data Analysis Project
 
-This project focuses on analyzing Puma sales data using Python, MySQL, and Power BI.
+📊 Project Overview
+This is an end-to-end data analysis project based on Puma sales data. The project focuses on data cleaning, analysis, and visualization to extract meaningful business insights.
 
-## Project Workflow
-1. Data Cleaning using Python (Pandas)
-2. Data Analysis using MySQL queries
-3. Data Visualization using Power BI Dashboard
+🎯 Objectives
+Clean raw sales data using Python (Pandas)
+Analyze product performance and sales trends using SQL
+Build an interactive dashboard in Power BI
+Present insights in a clear and structured way
 
-## Tools Used
-- Python (Pandas)
-- MySQL
-- Power BI
-- Advanced Excel
+🛠 Tools & Technologies Used
+Python (Pandas, NumPy)
+MySQL / SQL
+Power BI
+Excel
 
-## Project Files
-- puma_cleaned.data.csv → Cleaned dataset
-- puma.code.ipynb → Python data cleaning code
-- puma.mysql.sql → SQL analysis queries
-- puma project dax.pbix → Power BI dashboard
+📁 Project Files
+puma.code.ipynb – Data cleaning and preprocessing using Python
+puma_cleaned.data.csv – Cleaned dataset after preprocessing
+puma.mysql.sql – SQL queries used for sales analysis
+puma project dax.pbix – Interactive Power BI dashboard
 
-## Insights
-- Analyzed sales performance
-- Identified product trends
-- Built interactive dashboard for business insights
+🔍 Key Analysis Performed
+Sales analysis by product category
+Total orders and sales trend analysis
+Region-wise sales performance
+Product performance comparison
+
+📈 Dashboard Highlights
+KPIs for total sales, total orders, and quantity sold
+Product category performance visualization
+Region-wise sales comparison
+Interactive filters for deeper insights
+
+👤 Author
+Piyush Solanki
+Aspiring Data Analyst | Python | SQL | Power BI
+
